@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0085/WYG/v1/juan/1
+seq: 1
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0085_WYG_001-1a, image: WYG0840/WYG0840-0017a.png}
+body:
+  text: 嘯堂集古錄卷上之上宋王俅撰商父乙鼎嘯堂集古錄卷上之上
+  hash: sha256:7da41af8238df8e51f4261a5a993a090ef4eced42e7b6f18621344d8fa27d627
+metadata:
+  title: 嘯堂集古錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:54.096695'
+  juan_title: 卷上之上
+  source:
+    repository: kanripo
+    path: KR3h0085/KR3h0085_001.txt
+hash: sha256:eb159cf9af9b2dbc2272190beb08eff4a2c8a904e6a24cc50070c36f972eafc9

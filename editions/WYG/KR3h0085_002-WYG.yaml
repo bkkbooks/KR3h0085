@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3h0085/WYG/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0085_WYG_002-1a, image: WYG0840/WYG0840-0035a.png}
+body:
+  text: 嘯堂集古録卷上之下宋王俅撰周師艅尊嘯堂集古錄卷上之下欽定四庫全書嘯堂集古録卷下之上宋王俅撰周雙弓角嘯堂集古錄卷下之上欽定四庫全書嘯堂集古錄卷下之下宋王俅撰周季姜盂嘯堂集古錄卷下之下
+  hash: sha256:f74e3e16c1a5ed71441b0376f14aaaacb2be96fe3c5b3ef3b2f80674cea0c352
+  markers:
+  - {type: page-break, offset: 26, content: '', id: KR3h0085_WYG_002-38a, image: missing/missing}
+  - {type: page-break, offset: 58, content: '', id: KR3h0085_WYG_002-72a, image: missing/missing}
+metadata:
+  title: 嘯堂集古錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:54.096695'
+  juan_title: 卷上之下
+  source:
+    repository: kanripo
+    path: KR3h0085/KR3h0085_002.txt
+hash: sha256:1ee668579decfb998576df5d9c70499273022c97dbca704524f9a04d6aa93278

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3h0085/SBCK/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0085_SBCK_000-1a}
+metadata:
+  title: 嘯堂集古錄
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 23:16:54.096695'
+  source:
+    repository: kanripo
+    path: KR3h0085/KR3h0085_000.txt
+hash: sha256:7e7e5fe6d1e5a4b0ef445e45e5e7505d0c423d9f589be8438ba94e666fd564af
