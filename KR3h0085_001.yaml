@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0085_WYG_001-1a, image: WYG0840/WYG0840-0017a.png}
 body:
-  text: 嘯堂集古録卷上之上宋王俅撰商父乙鼎嘯堂集古録卷上之上
-  hash: sha256:6791fe9dd5ceac7794fb2da8fbcf017c2c29fbb0d4a75461036dfafddc03f25b
+  text: 嘯堂集古錄卷上之上宋王俅撰商父乙鼎嘯堂集古錄卷上之上
+  hash: sha256:7da41af8238df8e51f4261a5a993a090ef4eced42e7b6f18621344d8fa27d627
 metadata:
   title: 嘯堂集古錄
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0085/KR3h0085_001.txt
-hash: sha256:45e4241a2c87f30d43f3524ade54ae31eb78f2c9c303ad20a505ef18e2be9286
+hash: sha256:9d502d50c20f2b2cc9a65dafdd1fb45f008b4c1275f8f7a4c272a06c4c909840
