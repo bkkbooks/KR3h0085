@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0085_WYG_002-1a, image: WYG0840/WYG0840-0035a.png}
 body:
-  text: 嘯堂集古録卷上之下宋王俅撰周師艅尊嘯堂集古錄卷上之下欽定四庫全書嘯堂集古録卷下之上宋王俅撰周雙弓角嘯堂集古錄卷下之上欽定四庫全書嘯堂集古錄卷下之下宋王俅撰周季姜盂嘯堂集古錄卷下之下
-  hash: sha256:f74e3e16c1a5ed71441b0376f14aaaacb2be96fe3c5b3ef3b2f80674cea0c352
+  text: 嘯堂集古録卷上之下宋王俅撰周師艅尊嘯堂集古録卷上之下欽定四庫全書嘯堂集古録卷下之上宋王俅撰周雙弓角嘯堂集古録卷下之上欽定四庫全書嘯堂集古録卷下之下宋王俅撰周季薑盂嘯堂集古録卷下之下
+  hash: sha256:5f0c5c907da35a14ff63200c3498d17e4f4470059d049be2bb12e7c1089658a8
   markers:
   - {type: page-break, offset: 26, content: '', id: KR3h0085_WYG_002-38a, image: missing/missing}
   - {type: page-break, offset: 58, content: '', id: KR3h0085_WYG_002-72a, image: missing/missing}
@@ -21,4 +21,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0085/KR3h0085_002.txt
-hash: sha256:95ddec193406987a2f2f5ae58a0cb179641f4117ca4801151c52e09112d866a3
+hash: sha256:d0d54bd7792e909e6e6ac40717aaf96d925180c48ac6196480e9b8f4ce8b54cf
