@@ -22,7 +22,7 @@ assets:
   - {seq: 2, filename: KR3h0085_002-WYG.yaml, hash: 'sha256:1ee668579decfb998576df5d9c70499273022c97dbca704524f9a04d6aa93278'}
   - {seq: 3, filename: KR3h0085_003-WYG.yaml, hash: 'sha256:191c4dc91c87aaf070a6ffe4cfe2b3b31b9325e343a637289f792c017a2c4738'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0085_000-WYG.markers.yaml, hash: 'sha256:fb8d88d03741bfce17e54e636e3d3e349ec114db5a22b964589c1b8c912cfb5d'}
+  - {seq: 0, role: markers, filename: assets/KR3h0085_000-WYG.markers.yaml, hash: 'sha256:fd6ba711c2e1d46e9a5448ca7885d9ea5be13763c72a2034997fe0485269801e'}
   - {seq: 1, role: markers, filename: assets/KR3h0085_001-WYG.markers.yaml, hash: 'sha256:7e994ae054609fb73b65937f208d5e931736761e19e1e59a25fe014e3c19fca4'}
   - {seq: 2, role: markers, filename: assets/KR3h0085_002-WYG.markers.yaml, hash: 'sha256:1a77d2c0efc7c7dfe65877357352527e568c025c4dd3a0142bc7a43029023d90'}
   - {seq: 3, role: markers, filename: assets/KR3h0085_003-WYG.markers.yaml, hash: 'sha256:732cdcac3ccd42490f24ebd7ed6bc5eb552d3159ffaf2fd2fcf526f0b2896cad'}
@@ -97,4 +97,4 @@ table_of_contents:
   label: 書嘯堂集古録後
   type: section
   level: 1
-hash: sha256:77914eaf000bc2ce5242ef668ef9ca5880b9cfe9b1f94ddb871377f0d635cfcd
+hash: sha256:e39a5ac98130d849e8d99d64563d058a849f34899c8dddea85419226cd93b5fa
